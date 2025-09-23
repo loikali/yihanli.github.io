@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="
-    background-image: url('{{ site.baseurl }}/images/title.png');
+    background-image: url('/images/title.png');
     background-size: cover;
     background-position: center;
     text-align: center;
