@@ -36,7 +36,7 @@ Hi! Nice to virtually meet you!!
 
 I'm currently a 4th-year undergrad at Peking University. My research interest is protoplanetary disks and exoplanets. It's always joyful and exciting to look at these shining rings and diamonds up in the sky. 
 
-Know more about <a href="/research/">my research experience</a> and <a href="/aboutme/">myself</a>!
+Know more about <a href="/research/">my research experience</a> and <a href="/aboutme/">me</a>!
 
 <!-- <img src="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2021/09/STScI-01FFFXRJGFBDWMBBR2J7TZTQ37.png?w=1807&h=2256&fit=crop&crop=faces%2Cfocalpoint" 
      alt="protoplanetary disks" width="45%" style="float: left; margin-right: 2%;">
