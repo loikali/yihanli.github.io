@@ -65,7 +65,7 @@ author_profile: true
             <img src="{{ site.baseurl }}/images/xinglong_night.jpeg" alt="Xinglong Starry Night" 
                  style="width: 100%; border-radius: 6px; box-shadow: 0 3px 6px rgba(0,0,0,0.15);">
             <p style="font-size: 0.8em; opacity: 0.7; text-align: center; margin-top: 8px; font-style: italic;">
-                The Starry Night @ Xinglong (credit: Bocheng Feng)
+                The Starry Night @ Xinglong (credit: Bocheng Feng❤)
             </p>
         </div>
         <div style="flex: 1; max-width: 45%;">
